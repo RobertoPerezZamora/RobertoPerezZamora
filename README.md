@@ -35,6 +35,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=RobertoPerezZamora&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoPerezZamora&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=RobertoPerezZamora&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
